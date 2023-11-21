@@ -1,0 +1,47 @@
+JUGADOR: Amazo - REPORTE PARTIDAS
+
+PARTIDA 1:  Duracion de la partida: 33 minutos
+  Mode de juego: CLASSIC
+  Derrota  Kills: 4
+  Asistencias: 13
+  Muertes: 6
+  Oro ganado: 12947 Oro gastado: 12425
+  Participantes: ['Kawaii Aruruu ', 'Amazo', 'NebuIa', 'dog2', 'kckim', 'Topo', 'lllIllI', 'LFT AKASHI', 'TBS1', 'SolNeverDie']
+  Campeones Usados: ['Olaf', 'Vi', 'Ahri', 'Draven', 'Pantheon', 'Poppy', 'Renata', 'Sylas', 'Varus', 'Khazix']
+
+PARTIDA 2:  Duracion de la partida: 29 minutos
+  Mode de juego: CLASSIC
+  Victoria  Kills: 9
+  Asistencias: 7
+  Muertes: 2
+  Oro ganado: 15433 Oro gastado: 14750
+  Participantes: ['gorillajones', 'My Eclipse', 'Aukali', 'duoking1', 'The Tank Man', 'AngyCroc', 'Amazo', 'xianglianyone', 'Tomo09', 'Unbreaking III']
+  Campeones Usados: ['KSante', 'Graves', 'Xerath', 'Zyra', 'Nami', 'Renekton', 'Belveth', 'Orianna', 'Jinx', 'Bard']
+
+PARTIDA 3:  Duracion de la partida: 19 minutos
+  Mode de juego: ARAM
+  Derrota  Kills: 2
+  Asistencias: 32
+  Muertes: 15
+  Oro ganado: 10874 Oro gastado: 9800
+  Participantes: ['isa gaja', 'Tree NB', 'Memo', 'Longkim', 'Tsukino Usagi', 'Kachu', 'Amazo', 'Let me think', 'splendortuX', 'Mirroroe']
+  Campeones Usados: ['Leblanc', 'Zed', 'Vayne', 'Chogath', 'Teemo', 'Talon', 'Renata', 'Akali', 'Ahri', 'Gnar']
+
+PARTIDA 4:  Duracion de la partida: 12 minutos
+  Mode de juego: ARAM
+  Derrota  Kills: 8
+  Asistencias: 12
+  Muertes: 6
+  Oro ganado: 9759 Oro gastado: 8550
+  Participantes: ['Let me think', 'Spriteful', 'Mooshn', 'EU Red', 'MynamespioloLOL', 'Zeebers', 'armadillos8', 'Kachu', 'Amazo', 'UncleSåm']
+  Campeones Usados: ['Irelia', 'Rengar', 'Swain', 'Viego', 'Lulu', 'Soraka', 'TahmKench', 'Katarina', 'Naafiri', 'Akshan']
+
+PARTIDA 5:  Duracion de la partida: 17 minutos
+  Mode de juego: NEXUSBLITZ
+  Victoria  Kills: 12
+  Asistencias: 6
+  Muertes: 5
+  Oro ganado: 17208 Oro gastado: 17100
+  Participantes: ['The Hasbulla', 'Amazo', 'chookitydookity', 'EndrSpite', 'Riddlemethats1', 'ChosenOneRaiden', 'gnial13', 'Wanderer53', 'emyy', 'Mementø Mori']
+  Campeones Usados: ['Shaco', 'Kalista', 'Anivia', 'Viego', 'Caitlyn', 'Ryze', 'Kindred', 'Yasuo', 'Kaisa', 'Anivia']
+

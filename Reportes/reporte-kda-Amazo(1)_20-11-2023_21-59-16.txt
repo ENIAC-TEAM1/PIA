@@ -1,0 +1,8 @@
+JUGADOR: Amazo - REPORTE KDA
+
+  Partida   Kills, Muertes, Asistencias
+  Partida 1:   4		6 	 	13
+  Partida 2:   9		2 	 	7
+  Partida 3:   2		15 	 	32
+  Partida 4:   8		6 	 	12
+  Partida 5:   12		5 	 	6

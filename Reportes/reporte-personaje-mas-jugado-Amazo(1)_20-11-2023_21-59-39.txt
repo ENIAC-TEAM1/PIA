@@ -1,0 +1,4 @@
+JUGADOR: Amazo - REPORTE PERSONAJE MAS JUGADO
+
+    El campeon mas usado es Belveth, jugado 3 veces.
+    Campeones Usados: ['Vi', 'Belveth', 'Renata', 'Naafiri', 'Kalista', 'Gwen', 'Xerath', 'Belveth', 'Belveth', 'Jayce']

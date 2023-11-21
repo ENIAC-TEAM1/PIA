@@ -1,0 +1,4 @@
+JUGADOR: Amazo - REPORTE TASA VICTORIA Y DERROTA
+
+  Tasa de Victorias: 40.0
+  Tasa de Derrotas: 60.0
